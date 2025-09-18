@@ -1,0 +1,6 @@
+google.generativeai
+steamlit
+opencv-python
+python-docx
+cv2
+pillow
