@@ -1,5 +1,5 @@
 google.generativeai
-steamlit
+streamlit
 opencv-python-headless
 python-docx
 Pillow
