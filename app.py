@@ -1,6 +1,5 @@
 import google.generativeai as genai
 import os
-import exception
 import streamlit as st
 from pdfextractor import text_extractor
 from docxextractor import text_extractor_docx
