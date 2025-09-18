@@ -1,6 +1,6 @@
 google.generativeai
 steamlit
-opencv-python
+opencv-python-headless
 python-docx
 cv2
 pillow
